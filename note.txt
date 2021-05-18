@@ -1,0 +1,30 @@
+ms_building
+- id
+- name
+- capacity
+- telp
+- address
+- datetime_visit_f
+- datetime_visit_t
+- created_at
+- updated_at
+- deleted_at
+
+
+visitor
+- id
+- building_id
+- name
+- email
+- phone
+- datetime_in
+- datetime_out
+- temperature
+- created_at
+- updated_at
+- deleted_at
+
+
+POSTMAN API.
+
+https://www.getpostman.com/collections/c7e5c64941b4c7d85c5e
